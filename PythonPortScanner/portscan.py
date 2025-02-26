@@ -22,3 +22,5 @@ for address in addresses:
         print(f"Port {address[1]} is closed")
     else:
         print(f"Port {address[1]} is open")
+
+print("Port scanning completed")
