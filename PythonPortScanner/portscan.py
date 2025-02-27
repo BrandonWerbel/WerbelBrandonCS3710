@@ -1,5 +1,4 @@
 from socket import create_connection
-import datetime
 
 from datetime import datetime
 
